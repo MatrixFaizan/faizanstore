@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rectweb/static/css/main.ff78ff59.chunk.css",
+    "main.js": "/Rectweb/static/js/main.de825594.chunk.js",
+    "main.js.map": "/Rectweb/static/js/main.de825594.chunk.js.map",
+    "runtime-main.js": "/Rectweb/static/js/runtime-main.a849c48a.js",
+    "runtime-main.js.map": "/Rectweb/static/js/runtime-main.a849c48a.js.map",
+    "static/js/2.519b4029.chunk.js": "/Rectweb/static/js/2.519b4029.chunk.js",
+    "static/js/2.519b4029.chunk.js.map": "/Rectweb/static/js/2.519b4029.chunk.js.map",
+    "static/js/3.d54e3551.chunk.js": "/Rectweb/static/js/3.d54e3551.chunk.js",
+    "static/js/3.d54e3551.chunk.js.map": "/Rectweb/static/js/3.d54e3551.chunk.js.map",
+    "index.html": "/Rectweb/index.html",
+    "static/css/main.ff78ff59.chunk.css.map": "/Rectweb/static/css/main.ff78ff59.chunk.css.map",
+    "static/js/2.519b4029.chunk.js.LICENSE.txt": "/Rectweb/static/js/2.519b4029.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a849c48a.js",
+    "static/js/2.519b4029.chunk.js",
+    "static/css/main.ff78ff59.chunk.css",
+    "static/js/main.de825594.chunk.js"
+  ]
+}
